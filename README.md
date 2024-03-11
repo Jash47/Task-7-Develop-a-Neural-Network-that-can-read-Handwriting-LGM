@@ -1,4 +1,4 @@
-# Task 7 - Handwriting Recognition Neural Network
+# Handwriting Recognition Neural Network
 
 This repository contains the theory and conceptual overview of a neural network designed to read and recognize handwriting. This neural network is built using Python and popular machine learning libraries such as TensorFlow.
 
